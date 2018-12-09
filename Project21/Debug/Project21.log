@@ -1,0 +1,3 @@
+﻿  20185370.c
+c:\users\guyle\source\repos\project21\project21\20185370.c(33): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  Project21.vcxproj -> C:\Users\guyle\source\repos\Project21\Debug\Project21.exe

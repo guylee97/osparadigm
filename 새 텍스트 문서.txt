@@ -1,0 +1,12 @@
+if (a == '\n')
+		{
+			linecount++;
+		}
+		else if (isgraph(a))
+		{
+			charactercount++;
+		}
+		else if (a == ' ')
+		{
+			spacecount++;
+		}
